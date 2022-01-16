@@ -1,4 +1,7 @@
-### Hi there 👋
+### Oh, hello there ✨✨
+
+I'm Marc Jermaine, instructor of Computer Science 💻 and Mathematics 🧮 at College of Arts and Sciences, University of the Philippines, Manila.
+
 
 <!--
 **marcjermaine-pontiveros/marcjermaine-pontiveros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
