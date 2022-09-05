@@ -1,6 +1,6 @@
 ### Oh, hello there ✨✨
 
-I'm Marc Jermaine, instructor of Computer Science 💻 and Mathematics 🧮 at College of Arts and Sciences, University of the Philippines, Manila.
+I'm Marc Jermaine.
 
 
 <!--
